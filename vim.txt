@@ -1,0 +1,14 @@
+Search and replace
+==================
+
+Replace the following text using:
+
+:%s/old/new/gc
+
+old
+old
+old
+
+g means global
+c means ask for a confirmation
+
